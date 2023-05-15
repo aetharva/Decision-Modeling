@@ -1,0 +1,15 @@
+Logistics Models are similar to Transportation Models except for:
+1.  Arcs have capacities
+2. In Flows and Out Flows can be associated with any node (we have two-way traffic)
+
+We have three types of Nodes:
+1: Origins - this is where supply begins (they have Capcities)
+2: Destinations -this is the opposite of Origins (they have demands)
+3: Trans-shipment Terminals or Warehouses (This is where goods simply pass through)
+
+The best way to analyz these types of problems is in terms of Net Inflows and Net Out FLows
+Net Inflow (of any node) = Total Inflow - Total Out Flow
+Net Out Flow = Total Out Flow - Total In Flow
+Origins have positive Out Flows. This means Net Out Flows < = Capacity
+Destinations have positive In Flows. This means Net Inflows > = Demand
+Trans-shipment Terminals (warehouses) have Net Inflow - Net Out Flow = Zero
