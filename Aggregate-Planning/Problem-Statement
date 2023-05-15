@@ -1,0 +1,17 @@
+During the next four months the Sure Step Company must meet (on time) the following demands for pairs of shoes: 
+ 
+3000 in month 1; 5000 in month 2; 2000 month 3; and 1000 in month 4. 
+ 
+At the beginning of month 1, 500 pairs of shoes are on hand, and Sure Step has 100 workers. A worker is paid 
+$1500 per month. Each worker can work up to 160 hours per month before he or she receives overtime. A worker 
+can work up to 20 hours of overtime per month and is paid $13 per hour for overtime labor. 
+ 
+It takes four hours of labor and $15 of raw material to produce a pair of shoes. At the beginning of each 
+month, workers can be hired or fired. Each hired worker costs $1600, and each fired worker costs $2000. 
+At the end of each month, a holding cost of $3 per pair of shoes left in inventory is incurred. Production 
+in a given month can be used to meet that month's demand. Sure Step wants to use LP to determine its optimum 
+production schedule and labor policy (i.e., how many employees to hire / fire) at the minimum cost.
+
+Before you click on the Model Structure, contemplate for few minutes how you would possibly set up a spreadsheet 
+model to describe Sure Step's business environment. After deeper thinking, you will begin to see a picture how 
+everything is related. If you start drawing a "logic" picture you will see even a clearer model emerge in your mind.
