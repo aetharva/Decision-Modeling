@@ -1,0 +1,13 @@
+Chandler Oil Refinery has 5000 barrels of crude oil 1 and 10,000 barrels of crude oil 2 available. 
+Chandler sells gasoline and heating oil. These products are produced by blending the two crude oils 
+together. 
+
+Each barrel of crude oil 1 has a quality level of 10 and each barrel of crude oil 2 has a quality level 
+of 5. Gasoline must have an average quality level of at least 8, whereas heating oil must have an average 
+quality level of at least 6.  Note: Quality is calculated as a function of Octane rating, viscosity, and flashpoint.
+
+Gasoline sells for $75 per barrel, and heating oil sells for $60 per barrel. In addition, if any barrels 
+of the crude oil are leftover, they can be sold for $65 (Oil type 1) and $50 (Oil type 2) per barrel, respectively.  
+
+Assume that demand for heating oil and gasoline is unlimited, so all of Chandler’s production will be sold.
+Chandler wants to maximize its revenue from selling gasoline, heating oil, and any kind of leftover crude oils.
